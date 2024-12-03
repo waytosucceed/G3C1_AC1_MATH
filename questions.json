@@ -1,0 +1,102 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Which words make this statement true?<br> 74 ____ 72.",
+        "options": [
+            "is less than",
+            "is greater than",
+            "is equal to"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Which words make this statement true?<br> 85 ____ 89.",
+        "options": [
+            "is less than",
+            "is greater than",
+            "is equal to"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Which words make this statement true?<br> 47 ____ 47.",
+        "options": [
+            "is less than",
+            "is greater than",
+            "is equal to"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Which words make this statement true?<br> 56 ____ 53.",
+        "options": [
+            "is less than",
+            "is greater than",
+            "is equal to"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Which sign makes the statement true?<br> 28 ____ 18.",
+        "options": [
+            ">",
+            "=",
+            "<"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Which sign makes the statement true?<br> 45 ____ 54.",
+        "options": [
+            ">",
+            "=",
+            "<"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Put these numbers in order from greatest to least:<br> 11, 13, 96.",
+        "options": [
+            "13, 11, 96",
+            "96, 13, 11",
+            "11, 13, 96"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Put these numbers in order from greatest to least:<br> 98, 45, 12.",
+        "options": [
+            "98, 45, 12",
+            "45, 12, 98",
+            "12, 98, 45"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Put these numbers in order from least to greatest:<br> 81, 49, 13.",
+        "options": [
+            "49, 81, 13",
+            "81, 49, 13",
+            "13, 49, 81"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Put these numbers in order from least to greatest:<br> 92, 36, 27.",
+        "options": [
+            "27, 36, 92",
+            "36, 92, 27",
+            "92, 27, 36"
+        ],
+        "correct": 0
+    }
+]
